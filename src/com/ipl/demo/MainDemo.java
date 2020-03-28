@@ -38,6 +38,7 @@ public class MainDemo {
 	}
 
 	public static void viewMenu() {
+		System.out.println("Nandan");
 		List<Items> cartItems = new ArrayList<Items>();
 		boolean flag = true;
 		do {
